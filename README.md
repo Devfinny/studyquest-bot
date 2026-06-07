@@ -1,2 +1,12 @@
-# studyquest-bot
-StudyQuest is a gamified learning platform that combines school, gaming and Discord to help students stay motivated through XP, levels, streaks and challenges.
+# StudyQuest
+
+A gamified Discord learning platform.
+
+## Features
+- XP System
+- Levels
+- Streaks
+- Homework Tracking
+- Leaderboards
+
+Built by  Finlay & NiesNiki
